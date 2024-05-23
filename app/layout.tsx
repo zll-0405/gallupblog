@@ -13,10 +13,10 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: '盖洛普博客',
   description: '盖洛普优势测试，才干释义，组合才干案例等',
-  metadataBase: new URL('https://test.com'),
-  alternates:{
-    canonical: './'
-  },
+  // metadataBase: new URL(''),
+  // alternates:{
+  //   canonical: './'
+  // },
 };
 
 export default function RootLayout({ children }) {
