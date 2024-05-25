@@ -10,11 +10,7 @@ const LIST = [
   {
     title: '案例分享',
     href: '/case',
-  },
-  {
-    title: '关于',
-    href: '/about',
-  },
+  }
 ];
 
 const Menu: FC = () => {
