@@ -66,8 +66,7 @@ export default async function Page() {
                 主要分享
             </h3>
             <p className="text-slate-200">💡 这是一个关于盖洛普的博客，分享盖洛普中 34 个才干的意思，实际案例等</p>
-            <p className="text-slate-200">🐒 但我并不是专业的，分享出来的内容是通过 学习/搜索/觉察/和我教练交流 得到的</p>
-            <p className="text-slate-200">🤔 它不一定专业，但它一定会很有趣</p>
+            <p className="text-slate-200">🐒 分享出来的内容是通过 学习/搜索/觉察/和我教练交流 得到的</p>
             <p className="text-slate-200">😆 希望它能给你一些启发， enjoy it</p>
             <p className="text-slate-200">🤩 如果你想进行盖洛普优势测试，可以先读读这篇文章：
                 <a href="https://mp.weixin.qq.com/s/yyZ-WKi1JS-koi9yVy32NQ" target="_blank" 
