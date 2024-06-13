@@ -20,3 +20,5 @@ description: 盖洛普中“关联才干”的释义
 
 ## 才干组合
 
+
+ps 想看更多？去才干案例瞅瞅 [案例分享](https://gallupblog.com/case)

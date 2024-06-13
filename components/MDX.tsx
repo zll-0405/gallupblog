@@ -13,7 +13,8 @@ const MDX: FC<MDXProps> = ({ code }) => {
       img: (props: any) => <Image {...props} />,
       h2: (props: any) => <h2 className="text-slate-200" {...props} />,
       h3: (props: any) => <h2 className="text-slate-200/90" {...props} />,
-      h4: (props: any) => <h2 className="text-slate-200/90" {...props} />  
+      h4: (props: any) => <h2 className="text-slate-200/90" {...props} />,
+      a: (props: any) => <a className='text-sky-300' {...props} />,  
     }} />;
 };
 
