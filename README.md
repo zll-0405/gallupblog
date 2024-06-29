@@ -1,6 +1,6 @@
 hello
 
-这是一个 <strong>[盖洛普博客](https://strengths.top/)</strong>
+这是一个 <strong>[盖洛普优势博客](https://strengths.top/)</strong>
 
 ## 主要分享
 
@@ -42,4 +42,4 @@ hello
 
 我的亲身体会是，它在 职场/关系/个人成长 上都有应用场景
 
-最后，如果你也对盖洛普感兴趣，欢迎访问网站看看：<strong>[盖洛普博客](https://strengths.top/)</strong>
+最后，如果你也对盖洛普感兴趣，欢迎访问网站看看：<strong>[盖洛普优势博客](https://strengths.top/)</strong>
